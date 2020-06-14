@@ -4,9 +4,10 @@ const quotes = [
         "author": "Unknown"
     },
     {
-        "quote": "Time you enjoy wasting is not wasted time",
-        "author": "John Lennon"
+        "quote": "Always do what you are afraid to do",
+        "author": "Ralph Waldo Emerson"
     },
+
     {
         "quote": "Don’t be intimidated by what you don’t know. That can be your greatest strength and ensure that you do things differently from everyone else.",
         "author": "Sara Blakely"
@@ -44,10 +45,7 @@ const quotes = [
         "quote": "Watch carefully the magic that occurs when you give a person just enough comfort to be themselves",
         "author": "Atticus"
     },
-    {
-        "quote": "Always do what you are afraid to do",
-        "author": "Ralph Waldo Emerson"
-    },
+
     {
         "quote": "You never know how strong you are, until being strong is your only choice",
         "author": "Bob Marley"
@@ -72,12 +70,10 @@ const quotes = [
         "quote": "A I can do all things through Christ who strengthens me.",
         "author": "Philipians4:13"
     },
-
-
-
-
-
-
+    {
+        "quote": "Time you enjoy wasting is not wasted time",
+        "author": "John Lennon"
+    },
 ]
 
 export default quotes;
