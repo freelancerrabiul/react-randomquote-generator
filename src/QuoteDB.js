@@ -74,6 +74,46 @@ const quotes = [
         "quote": "Time you enjoy wasting is not wasted time",
         "author": "John Lennon"
     },
+    {
+        "quote": "If you want to lift yourself up, lift up someone else",
+        "author": "Booker T. Washington"
+    },
+    {
+        "quote": "Acknowledging the good that you already have in your life is the foundation for all abundance",
+        "author": "Eckhart Tolle"
+    },
+    {
+        "quote": "If you want to lift yourself up, lift up someone else",
+        "author": "Booker T. Washington"
+    },
+    {
+        "quote": "Muddy water is best cleared by leaving it alone.",
+        "author": "Anaïs Nin"
+    },
+    {
+        "quote": "There is nothing so useless as doing efficiently that which should not be done at all.",
+        "author": "Peter Drucker"
+    },
+    {
+        "quote": "Strength does not come from winning. Your struggles develop your strengths",
+        "author": "Arnold Schwarzenegger"
+    },
+    {
+        "quote": "Whenever you are confronted with an opponent, conquer them with love",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "quote": "Enjoy the little things, for one day you may look back and realize they were the big things",
+        "author": "Robert Brault"
+    },
+    {
+        "quote": "Do something today that your future self will thank you for",
+        "author": "Sean Patrick Flanery"
+    },
+    {
+        "quote": "It is not the load that breaks you down. It's the way you carry it",
+        "author": "Lou Holtz"
+    },
 ]
 
 export default quotes;
